@@ -30,18 +30,16 @@ Here are some projects I'm proud of:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
-- 💼 [LinkedIn](Your LinkedIn URL)
-- 🐦 [Twitter](Your Twitter URL)
-- 🌐 [Personal Website/Blog](Your Website URL)
+- 💼 LinkedIn(linkedin.com/in/andré-sarr-8b87a1202)
+- 🐦 Twitter(https://x.com/JavaHtml2)
+- 🌐 Personal Website(portofoliowebdev.vercel.app)
 
 ## 💡 Fun Facts
-- [Interesting fact about you]
-- [Another fun fact]
-- [Something unique about your coding journey]
+- Interesting fact about anything and nothing in same time
 
 ## 📫 How to Reach Me
 - 📧 Email: anonymousperfide@gmail.com
-- 💬 Discord: YourDiscordHandle
+- 💬 Discord: DiscordAccount(https://discord.gg/CCqxCrAb)
 
 ---
 ⭐️ From [Gothouteno](https://github.com/Gothouteno)
