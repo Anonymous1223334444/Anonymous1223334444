@@ -20,11 +20,11 @@ I'm a passionate developer who loves to create and learn new things. Whether it'
 Here are some projects I'm proud of:
 
 - **Waxma** - Chatbot
-  - [Key technologies used]
-  - [Link to repo/demo]
+  - Django, NextJS, OpenAi, Google Earth Engine, OpenStreetMap
+  - [Link to repo/demo](https://github.com/Anonymous1223334444/waxma.git)
 - **Nu dem** - App not defined
-  - [Key technologies used]
-  - [Link to repo/demo]
+  - React Native, MapBox, Google Map, OpenStreetMap, HuggingFace
+  - [Link to repo/demo](https://not-deployed-yet.vercel.app/)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=radical)
