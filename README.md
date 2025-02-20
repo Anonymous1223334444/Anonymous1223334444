@@ -11,11 +11,8 @@ I'm a technology enthusiast with a diverse background spanning web development, 
 <!-- Add country ranking -->
 ![Country Rank](https://github-contributor-stats.vercel.app/api?username=Anonymous1223334444&combine_all_yearly_contributions=true&country=true)
 
-<!-- Alternative country ranking -->
-[![Country Rank](https://github-readme-stats-one-bice.vercel.app/api?username=Anonymous1223334444&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&rank_icon=github&country=true)](https://github.com/Anonymous1223334444)
-
 ## 📈 GitHub Stats & Rankings
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=radical)
+[![Country Rank](https://github-readme-stats-one-bice.vercel.app/api?username=Anonymous1223334444&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&rank_icon=github&country=true)](https://github.com/Anonymous1223334444)
 
 ## 🛠️ Technologies & Tools
 
