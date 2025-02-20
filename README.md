@@ -1,45 +1,66 @@
-# 👋 Hello ! I'm Andre Sarr
+# 👋 Hello! I'm André
 
 ## 🚀 About Me
-I'm a passionate developer who loves to create and learn new things. Whether it's building web applications, solving complex problems, or contributing to open source, I'm always excited to dive into new challenges.
+I'm a technology enthusiast with a diverse background spanning web development, cloud infrastructure, and cybersecurity. My passion lies in exploring and implementing innovative tech solutions, from secure cloud architectures to AI integrations. I believe in the power of technology to solve complex problems and create meaningful impact.
 
 ### 🛠️ Tech Stack
-- **Languages:** [JavaScript, Python]
-- **Frontend:** [React, Vue.js, HTML/CSS]
-- **Backend:** [Node.js, Django, Spring]
-- **Databases:** [MongoDB, PostgreSQL]
-- **Tools:** [Git, Docker, VS Code]
+- **Cloud & DevOps:** AWS, Docker, CI/CD pipelines
+- **Security:** Network security, Cybersecurity principles
+- **Development:** JavaScript, Python, React, Vue.js
+- **Backend Systems:** Node.js, Django, Spring
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Infrastructure:** Networking, Cloud Architecture
+- **Tools:** Git, VS Code, Postman, Security testing tools
 
-## 🌱 Currently Learning
-- AI
-- Deep Learning
-- Networkink / Cloud
-- Always exploring new technologies!
+## 🌱 Current Focus
+- Cloud Security and AWS Solutions
+- AI and Machine Learning Integration
+- Network Infrastructure & Security
+- Cybersecurity Best Practices
 
-## 💼 Projects
-Here are some projects I'm proud of:
+## 💼 Featured Projects
 
-- **Waxma** - Chatbot
-  - Django, NextJS, OpenAi, Google Earth Engine, OpenStreetMap
-  - [Link to repo/demo](https://github.com/Anonymous1223334444/waxma.git)
-- **Nu dem** - App not defined
-  - React Native, MapBox, Google Map, OpenStreetMap, HuggingFace
-  - [Link to repo/demo](https://not-deployed-yet.vercel.app/)
+### 🤖 Waxma - Intelligent Chat Platform
+A secure and scalable communication platform:
+- **Tech Stack:** Django, Next.js, OpenAI API, Google Earth Engine, OpenStreetMap
+- **Features:** Secure data handling, geospatial integration, AWS infrastructure
+- [View Project](https://github.com/Anonymous1223334444/waxma.git)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=radical)
+### 🗺️ Nu dem - Voice-Enabled Inclusive Ride-Sharing
+An innovative ride-hailing platform designed for universal accessibility:
+- **Tech Stack:** React Native, MapBox, Google Maps API, OpenStreetMap, HuggingFace
+- **Features:** 
+  - Voice-controlled interface for users without technical literacy
+  - Natural language interaction for booking and tracking rides
+  - AI-powered voice assistance in multiple local languages
+  - Simplified user experience for broader accessibility
+  - Real-time voice navigation and status updates
+  - Secure location tracking with privacy protection
+- [Coming Soon](https://not-deployed-yet.vercel.app/)
 
-## 🤝 Let's Connect!
-- 💼 LinkedIn(linkedin.com/in/andré-sarr-8b87a1202)
-- 🐦 Twitter(https://x.com/JavaHtml2)
-- 🌐 Personal Website(portofoliowebdev.vercel.app)
+## 📈 GitHub Stats & Rankings
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=radical)
 
-## 💡 Fun Facts
-- Interesting fact about anything and nothing in same time
+<!-- Add country ranking -->
+![Country Rank](https://github-contributor-stats.vercel.app/api?username=Anonymous1223334444&combine_all_yearly_contributions=true&country=true)
 
-## 📫 How to Reach Me
+<!-- Alternative country ranking -->
+[![Country Rank](https://github-readme-stats-one-bice.vercel.app/api?username=Anonymous1223334444&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&rank_icon=github&country=true)](https://github.com/Anonymous1223334444)
+
+## 🤝 Connect With Me
+- [LinkedIn](https://linkedin.com/in/andré-sarr-8b87a1202) - Professional network
+- [Twitter](https://x.com/JavaHtml2) - Tech insights & discussions
+- [Portfolio](https://portofoliowebdev.vercel.app) - Project showcase
+
+## 💡 About Me
+- Technology enthusiast with a security-first mindset
+- Cloud infrastructure and AWS solutions explorer
+- Passionate about cybersecurity and network architecture
+- Advocate for secure and scalable tech solutions
+
+## 📫 Get in Touch
 - 📧 Email: anonymousperfide@gmail.com
-- 💬 Discord: DiscordAccount(https://discord.gg/CCqxCrAb)
+- 💬 [Discord Community](https://discord.gg/CCqxCrAb)
 
 ---
 ⭐️ From [Gothouteno](https://github.com/Gothouteno)
