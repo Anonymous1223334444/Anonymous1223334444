@@ -92,7 +92,7 @@ An innovative ride-hailing platform designed for universal accessibility:
 - Advocate for secure and scalable tech solutions
 
 ## 📫 Get in Touch
-- 📧 Email: anonymousperfide@gmail.com
+- 📧 Email: sarrandremichel@gmail.com
 - 💬 [Discord Community](https://discord.gg/CCqxCrAb)
 
 ---
