@@ -12,7 +12,7 @@
   <a href="https://x.com/JavaHtml2">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://portofoliowebdev.vercel.app">
+  <a href="https://andresarr.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://discord.gg/CCqxCrAb">
