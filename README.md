@@ -58,18 +58,16 @@ React Native · MapBox · HuggingFace · multi-language AI voice interface
 ---
 
 ## Stats
-
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anonymous1223334444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="150"/>
+  <img src="./profile/stats.svg" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymous1223334444&theme=tokyonight&hide_border=true" height="150"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous1223334444&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="./profile/top-langs.svg"/>
 </div>
-
 ---
-
+ 
 <div align="center">
   <sub>Open to roles in full-stack engineering, AI integration, and security · <a href="mailto:sarrandremichel@gmail.com">sarrandremichel@gmail.com</a></sub>
 </div>
